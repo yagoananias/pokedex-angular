@@ -16,7 +16,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :heavy_check_mark: :computer: Versão Web
 
 <h1 align="center">
-    <img alt="Single Page App Web Version of Pokedex" src="https://res.cloudinary.com/yagoananias/image/upload/v1625137296/github%20mocks/pokedex-api_st0awk.png">
+    <img alt="SPA (Single Page Application) Web Version of Pokedex" src="https://res.cloudinary.com/yagoananias/image/upload/v1625137296/github%20mocks/pokedex-api_st0awk.png">
 </h1>
 
 ---
